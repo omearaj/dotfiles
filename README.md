@@ -1,1 +1,1 @@
-# dotfiles
+# alias
